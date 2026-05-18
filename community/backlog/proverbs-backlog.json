@@ -1268,7 +1268,9 @@
     "english": "A bee on a crying face",
     "meaning": "Misfortune never comes alone",
     "completed": false,
-    "issued": true
+    "issued": false,
+    "completedBy": "yukieza",
+    "completedPR": 17347
   },
   {
     "id": 142,
