@@ -587,5 +587,11 @@
   "backgroundColor": "oklch(90.0% 0.020 220.0 / 1)",
   "mainColor": "oklch(60.0% 0.090 215.0 / 1)",
   "secondaryColor": "oklch(70.0% 0.060 200.0 / 1)"
+},
+{
+  "id": "bento-box",
+  "backgroundColor": "oklch(22.0% 0.025 45.0 / 1)",
+  "mainColor": "oklch(70.0% 0.175 20.0 / 1)",
+  "secondaryColor": "oklch(75.0% 0.165 145.0 / 1)"
 }
 ]
