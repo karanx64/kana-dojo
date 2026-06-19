@@ -56,13 +56,6 @@
     "character": "Recurring command voice"
   },
   {
-    "japanese": "勝つと思うな、思えば負けよ",
-    "romaji": "Katsu to omou na, omoeba makeyo",
-    "english": "If you only think of winning, you lose.",
-    "game": "Samurai game proverb line",
-    "character": "Musashi reference"
-  },
-  {
     "japanese": "俺たちの物語は、ここからだ",
     "romaji": "Oretachi no monogatari wa, koko kara da",
     "english": "Our story starts here.",
@@ -96,5 +89,12 @@
     "english": "I don't feel like I can lose.",
     "game": "Street Fighter series",
     "character": "Ryu"
-  }
+  },
+  {
+  "japanese": "ゆっくりしていってね！",
+  "romaji": "Yukkuri shite itte ne!",
+  "english": "Take it easy and stay awhile!",
+  "game": "Touhou Project",
+  "character": "Community meme phrase"
+}
 ]
